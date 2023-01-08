@@ -1,6 +1,6 @@
 # MoneyConversionBot
-Имя в Telegram - @World_Currencies_Bot
-Функционал бота:
+# Имя в Telegram - @World_Currencies_Bot
+# Функционал бота:
 
 1. Бот возвращает цену на определённое количество валюты (евро, доллар или рубль).
 2. При написании бота необходимо использовать библиотеку pytelegrambotapi.
